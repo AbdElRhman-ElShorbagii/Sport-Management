@@ -1,0 +1,6 @@
+1. Study How to add null option is the select  tag
+2. How to populate radio buttons and check boxes using laravel
+3. Study https://laravelcollective.com/docs/5.4/html#installation  Well
+4. Study https://laravel.com/docs/5.7/filesystem#file-uploads Well
+5. PLayers
+6. Enhance UI

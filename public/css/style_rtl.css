@@ -1,0 +1,12 @@
+html{
+    direction: rtl;
+}
+
+.main-sidebar {    
+    left: initial;
+    right: 0;
+}
+.content-wrapper, .main-footer{
+    margin-left: 0px;
+    margin-right: 230px;
+}
